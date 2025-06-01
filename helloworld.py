@@ -27,6 +27,9 @@ elif int(operator) == 4:
     else:
         result = int(num1) / int(num2)
         print("The answer is: ", result)
+        
+
+#this is my first learning about python the task is to create an simple calculator!!!
 
 
 
